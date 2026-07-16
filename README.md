@@ -1,7 +1,14 @@
-# SIM APK Public Download
+# SIM APK Public
 
-Arquivo público para baixar o APK atual do SIM.
+APK publico mais recente do SIM Scroll.
 
-- APK: `sim-production-latest.apk`
-- API configurada no build: `http://192.168.1.57:3000`
-- SHA1: `d69944236d83a504000cb792d07a9605f9e85181`
+- Arquivo: `sim-production-latest.apk`
+- Build: release/production
+- API: `http://167.179.109.137:3000`
+- App commit: `5589faf86d12ada190b720828ac068f02d0a2283`
+- Servidor commit: `a9487c69f87e1d277b0862b5f33fc50e080824e2`
+- Atualizado em: 2026-07-16
+
+Baixar direto:
+
+https://github.com/aulasonline18-blip/SIM-APK-PUBLIC/raw/main/sim-production-latest.apk
