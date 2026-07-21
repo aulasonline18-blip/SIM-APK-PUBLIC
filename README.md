@@ -4,12 +4,12 @@ APK publico mais recente do SIM Scroll.
 
 - Arquivo: `sim-production-latest.apk`
 - Build: release/production
-- Versao Android: `1.0.0+31`
+- Versao Android: `1.0.0+32`
 - API: `http://167.179.109.137:3000`
-- App commit: `6f407c90c86a1ed8d7b59599321b87aa925f65fb`
-- Servidor commit: `371adfc82f1f1216975bb21a27d7b1dad61d19f9`
+- App commit: `7f271cffdb44f23f198dd5b0caec7e259b741302`
+- Servidor commit: `d616a1d5f20dcc453d7547cd66c3c86831d3d797`
 - Atualizado em: 2026-07-21
-- SHA256: `3be92ae8b4763b39751819c6521ff5209dbac600fe5a068e72c2b9510e62b5c5`
+- SHA256: `737135f2b681f1b59645a06a6977bc2ffa373d78a74dc69d87fe2702fb8ba260`
 
 Baixar direto:
 
