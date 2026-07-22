@@ -11,10 +11,10 @@ APK publico mais recente para teste no telefone.
 - ABI: universal
 - Billing: mock
 - Assinatura: Android Debug
-- App commit: `886065644338bfe3cb15590636b94979f3be46c0`
+- App commit: `d9577e2e7c8c7870ba88b85f90d6ed6bf20d7c90`
 - Servidor commit: `479b8ae12a1ef4857a54f66e54db4e3cbeb9e7da`
 - Atualizado em: 2026-07-22
-- SHA256: `d0ea31d24a76fa4c3c7108cdf22717826d12feecb8b489052172f91e30e4ce18`
+- SHA256: `4bb2df2981900bbcb24067a3bc3e6b3f6fe8e847c7b0e650abd0196eac149225`
 
 Baixar direto:
 
@@ -32,10 +32,10 @@ instalada no telefone.
 - Rede de teste: HTTP liberado para `167.179.109.137`
 - ABI: universal
 - Billing: mock
-- App commit: `8145e146cd6ba8dc9d96a26eff6b166b9792a6c5`
+- App commit: `d9577e2e7c8c7870ba88b85f90d6ed6bf20d7c90`
 - Servidor commit: `479b8ae12a1ef4857a54f66e54db4e3cbeb9e7da`
 - Atualizado em: 2026-07-22
-- SHA256: `38f9efee774a70948cbf0c1e1d95feaad4fd4dab0b944998b457dc8cd1fcf21d`
+- SHA256: `eee0e6a53c725fad646ea72c751be86a560f87ce19e1ab2c400225519e417303`
 
 Baixar direto:
 
