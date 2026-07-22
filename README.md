@@ -40,16 +40,20 @@ Baixar direto:
 
 https://github.com/aulasonline18-blip/SIM-APK-PUBLIC/raw/main/sim-test-side-by-side.apk
 
-## APK production anterior
+## APK release operacional
 
 - Arquivo: `sim-production-latest.apk`
-- Build: release/production
+- Build: release operacional para teste externo, nao Google Play
 - Versao Android: `1.0.0+33`
 - API: `http://167.179.109.137:3000`
-- App commit: `2a10a7a94a4a67c2bea41e3bf96874ee1c87c031`
-- Servidor commit: `05962b5af0116277a63e998d945dc22bc6af441f`
-- Atualizado em: 2026-07-21
-- SHA256: `04887de2be31ee43aaeecf90e02002362f12b8570eb78e97769596d5acb8e61e`
+- Rede operacional: HTTP liberado para `167.179.109.137`
+- ABI: universal
+- Billing: mock
+- Assinatura: SIM Operational Release
+- App commit: `c120b1ca31d81f03013c9bbd509f0d86d37d08d0`
+- Servidor commit: `479b8ae12a1ef4857a54f66e54db4e3cbeb9e7da`
+- Atualizado em: 2026-07-22
+- SHA256: `e87d17bea1ac4e0e66e11fcfb5c490c949f74f8e782e9abb345af43d30db6bd1`
 
 Baixar direto:
 
