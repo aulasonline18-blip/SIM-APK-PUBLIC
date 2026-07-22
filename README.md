@@ -10,10 +10,11 @@ APK publico mais recente para teste no telefone.
 - Rede de teste: HTTP liberado para `167.179.109.137`
 - ABI: arm64-v8a
 - Assinatura: Android Debug local usada como assinatura release operacional
-- App commit: `4cea2cf42e14b544d0d238d0c44818daeb43d149`
+- Versao Android: `1.0.0 (2034)`
+- App commit: `80bac3518d6652dcb6cfc846aa1d92b1b2615fec`
 - Servidor commit: `479b8ae12a1ef4857a54f66e54db4e3cbeb9e7da`
 - Atualizado em: 2026-07-23
-- SHA256: `ba469b5fabb36354ae4a3ca93d8c4d6c57c037523ca6fecba094429224da1983`
+- SHA256: `525ca1e92ebda9835906c28dbfa85ec4a9d00a4bbc2c4e133a7457cdd1340d6a`
 
 Baixar direto:
 
