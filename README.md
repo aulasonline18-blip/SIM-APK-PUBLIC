@@ -1,6 +1,22 @@
 # SIM APK Public
 
-APK publico mais recente do SIM Scroll.
+APK publico mais recente para teste no telefone.
+
+## APK atualizado de teste
+
+- Arquivo: `sim-test-latest.apk`
+- Build: profile/teste operacional
+- API: `http://167.179.109.137:3000`
+- App commit: `c97c0b91c333a37270aeb590dad9fda225039ca9`
+- Servidor commit: `8513162f765ac60c1975ddfdec5780218cfa93a9`
+- Atualizado em: 2026-07-22
+- SHA256: `7c871cf5e9d030acb77ad3327a2611412fa874d2a47d2a03f57c30e10de6054f`
+
+Baixar direto:
+
+https://github.com/aulasonline18-blip/SIM-APK-PUBLIC/raw/main/sim-test-latest.apk
+
+## APK production anterior
 
 - Arquivo: `sim-production-latest.apk`
 - Build: release/production
