@@ -49,11 +49,11 @@ https://github.com/aulasonline18-blip/SIM-APK-PUBLIC/raw/main/sim-test-side-by-s
 - Rede operacional: HTTP liberado para `167.179.109.137`
 - ABI: universal
 - Billing: mock
-- Assinatura: SIM Operational Release
-- App commit: `fe4356f5ffe51eb95eab8023180d0eb96441ebf3`
+- Assinatura: SIM S Phases Operational Release
+- App commit: `9057713da7b28a20d632ce23789cf841c47bd9bd`
 - Servidor commit: `479b8ae12a1ef4857a54f66e54db4e3cbeb9e7da`
 - Atualizado em: 2026-07-22
-- SHA256: `65e41302eacd9b89ddc34f20f4c0d40fbfff45ff3339e00c19416c545eb05f3b`
+- SHA256: `86ee9a07c7832c36908ee3303bd0560886111602bcefed4e7852335094aea495`
 
 Baixar direto:
 
