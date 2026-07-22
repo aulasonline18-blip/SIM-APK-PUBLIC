@@ -19,6 +19,22 @@ Baixar direto:
 
 https://github.com/aulasonline18-blip/SIM-APK-PUBLIC/raw/main/sim-latest-arm64-v8a.apk
 
+## APK lado a lado
+
+Use este se o Android recusar atualizar o app principal por conflito de
+assinatura com uma instalacao antiga.
+
+- Arquivo: `sim-latest-side-by-side-arm64-v8a.apk`
+- Package: `com.aulasonline.simtest`
+- Build: release instalavel, ABI arm64-v8a, nao Google Play
+- API: `http://167.179.109.137:3000`
+- App commit: `b02084ac97bfaae071291ce6c688ddde46fb8787`
+- SHA256: `5a448f3e2c97b62a2ba1d25d4118c8c63f7fae3c03973dbd514322b8b8485883`
+
+Baixar direto:
+
+https://github.com/aulasonline18-blip/SIM-APK-PUBLIC/raw/main/sim-latest-side-by-side-arm64-v8a.apk
+
 ## Observacao
 
 O APK foi gerado em modo release dividido por ABI para ficar abaixo do limite de
