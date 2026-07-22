@@ -50,10 +50,10 @@ https://github.com/aulasonline18-blip/SIM-APK-PUBLIC/raw/main/sim-test-side-by-s
 - ABI: universal
 - Billing: mock
 - Assinatura: SIM Operational Release
-- App commit: `c120b1ca31d81f03013c9bbd509f0d86d37d08d0`
+- App commit: `fe4356f5ffe51eb95eab8023180d0eb96441ebf3`
 - Servidor commit: `479b8ae12a1ef4857a54f66e54db4e3cbeb9e7da`
 - Atualizado em: 2026-07-22
-- SHA256: `e87d17bea1ac4e0e66e11fcfb5c490c949f74f8e782e9abb345af43d30db6bd1`
+- SHA256: `65e41302eacd9b89ddc34f20f4c0d40fbfff45ff3339e00c19416c545eb05f3b`
 
 Baixar direto:
 
