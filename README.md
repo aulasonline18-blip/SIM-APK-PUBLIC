@@ -5,15 +5,16 @@ APK publico mais recente para teste no telefone.
 ## APK atualizado de teste
 
 - Arquivo: `sim-test-latest.apk`
-- Build: release operacional das fases S, nao Google Play
+- Build: profile/teste operacional, nao Google Play
 - API: `http://167.179.109.137:3000`
 - Rede de teste: HTTP liberado para `167.179.109.137`
 - ABI: universal
 - Billing: mock
-- App commit: `9057713da7b28a20d632ce23789cf841c47bd9bd`
+- Assinatura: Android Debug
+- App commit: `886065644338bfe3cb15590636b94979f3be46c0`
 - Servidor commit: `479b8ae12a1ef4857a54f66e54db4e3cbeb9e7da`
 - Atualizado em: 2026-07-22
-- SHA256: `d97f54c74c34b3ad77a0c03c011988690a04f00e7a326ddab687533a83ca9a7e`
+- SHA256: `d0ea31d24a76fa4c3c7108cdf22717826d12feecb8b489052172f91e30e4ce18`
 
 Baixar direto:
 
